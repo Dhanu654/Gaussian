@@ -1,13 +1,13 @@
-# Gaussian Elimination
+### Gaussian Elimination
 
-## AIM:
+### AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+### Algorithm
 1. Import the numpy module to use the built-in functions for calculation
 2. Prepare the lists from each linear equations and assign in np.array()
 3. Using the np.linalg.solve(), we can find the solutions
@@ -47,7 +47,7 @@ for i in range(n):
 */
 ```
 
-## Output:
+### Output:
 ![gaussian elimination]()
 ![Screenshot 2023-12-31 145914](https://github.com/Dhanu654/Gaussian/assets/148514965/0ad69090-556f-4fcc-87ee-429d35d230e8)
 ![Screenshot 2023-12-31 145941](https://github.com/Dhanu654/Gaussian/assets/148514965/8b6de245-f603-48a1-9222-35844505a3ba)
